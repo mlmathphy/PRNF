@@ -1,4 +1,4 @@
-<pre>
+
 # PRNF
 - Code for Paper "A PSEUDO-REVERSIBLE NORMALIZING FLOW FOR STOCHASTIC DYNAMICAL SYSTEMS WITH VARIOUS INITIAL
 DISTRIBUTIONS". //https://arxiv.org/pdf/2306.05580.pdf
@@ -28,4 +28,4 @@ DISTRIBUTIONS". //https://arxiv.org/pdf/2306.05580.pdf
     Evaluation part: eval_density.py
     Plots files: plot_density (PRNF method to plot Fig10) and plot)eval_Valid.py (Fig9).
   
-</pre>
+
